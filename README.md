@@ -5,7 +5,7 @@ A production-ready boilerplate for building React applications with Tailwind CSS
 ## Features
 - **Vite** - Next generation frontend tooling with instant server start and fast hot module replacement (HMR)
 
-- **React 18** - Latest version with functional components and hooks
+- **React 19** - Latest version with functional components and hooks
 
 - **Tailwind CSS 4** - Utility-first CSS framework with JIT compiler for optimal performance
 
